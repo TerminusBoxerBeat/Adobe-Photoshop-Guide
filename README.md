@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://share.google/dVrw752FFAKeucYou">
-    <img src="https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge" alt="Buy">
+    <img src="https://img.shields.io/badge/🛒_FREE_/_SOFT_OFFICIALLY-FF0000?style=for-the-badge" alt="Buy">
   </a>
   <a href="https://share.google/dVrw752FFAKeucYou">
     <img src="https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge" alt="Free Trial">
